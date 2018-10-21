@@ -15,4 +15,4 @@
 | --               | --             | --          | --      |
 | --               | --             | --          | --      |
 
-Gesamte Arbeitszeit in Minuten: 210
+Gesamte Arbeitszeit in Minuten: 240
